@@ -1,5 +1,6 @@
 # hello-world
 ### hello-world project
+# hi
 
 이 프로젝트는 **깃허브**를 학습하기 위한 *가이드*입니다.
 
